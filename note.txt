@@ -1,0 +1,5 @@
+1/ generate API Key
+2/ Install plugins
+npm install @ionic-native/core @ionic-native/google-maps
+ionic cordova plugin add cordova-plugin-googlemaps --variable API_KEY_FOR_ANDROID="AIzaSyCjBaIhoK9XX4eOfeSsPb91bq14DO_gJUc" --variable API_KEY_FOR_IOS="AIzaSyCjBaIhoK9XX4eOfeSsPb91bq14DO_gJUc"
+

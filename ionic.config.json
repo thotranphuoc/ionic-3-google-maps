@@ -1,5 +1,7 @@
 {
   "name": "ionic3-template",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "ionic-angular"
 }
